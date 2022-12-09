@@ -33,6 +33,41 @@
     </item>
     
     <item>
+      <title>Members</title>
+      <link>https://example.com/member/all/</link>
+      <pubDate>Thu, 08 Dec 2022 18:01:51 +0900</pubDate>
+      <guid>https://example.com/member/all/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;講師
+&lt;ul&gt;
+&lt;li&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;学生
+&lt;ul&gt;
+&lt;li&gt;B4
+&lt;ul&gt;
+&lt;li&gt;森 雄一郎
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:hisakawa1251@gmain.com&#34;&gt;hisakawa1251@gmain.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://example.com/about/</link>
       <pubDate>Thu, 08 Dec 2022 14:21:37 +0900</pubDate>
@@ -224,7 +259,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-264853719&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-371296485&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -234,7 +269,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-264853719&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-371296485&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

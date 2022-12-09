@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members | Academic</title>
+    <link>https://example.com/member/</link>
+      <atom:link href="https://example.com/member/index.xml" rel="self" type="application/rss+xml" />
+    <description>Members</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-Jp</language><lastBuildDate>Thu, 08 Dec 2022 18:01:51 +0900</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Members</title>
+      <link>https://example.com/member/</link>
+    </image>
+    
+    <item>
+      <title>Members</title>
+      <link>https://example.com/member/all/</link>
+      <pubDate>Thu, 08 Dec 2022 18:01:51 +0900</pubDate>
+      <guid>https://example.com/member/all/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;講師
+&lt;ul&gt;
+&lt;li&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;学生
+&lt;ul&gt;
+&lt;li&gt;B4
+&lt;ul&gt;
+&lt;li&gt;森 雄一郎
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:hisakawa1251@gmain.com&#34;&gt;hisakawa1251@gmain.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
